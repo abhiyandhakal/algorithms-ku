@@ -1,7 +1,6 @@
-import random
 import numpy as np
 import matplotlib.pyplot as plt
-from utils import get_execution_time
+from lab1.utils import get_execution_time
 
 
 def bubble_sort(arr):
